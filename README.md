@@ -2,6 +2,7 @@
 [my github blog](https://lei-daqq.github.io/)
 
 This is my GitHub repository where I document issues I've run into, as well as some tutorials. I use it as another blog, since GitHub makes it easy to publish new posts, lol.
+</br>
 <a href='https://github.com/Lei-DaQQ/myIssues/discussions'>Lei-DaQQ/myIssues · Discussions · GitHub</a>
 </br>
 <a href='https://github.com/Lei-DaQQ/myIssues/issues'>Issues · Lei-DaQQ/myIssues</a>
