@@ -1,5 +1,8 @@
 ### Hi there 👋
-[my github blog](https://lei-daqq.github.io/)
+Please contact me via email at ljx.1024@outlook.com
+
+### My Blog
+~~[my github blog](https://lei-daqq.github.io/)~~ (I don't use this now.)
 
 This is my GitHub repository where I document issues I've run into, as well as some tutorials. I use it as another blog, since GitHub makes it easy to publish new posts, lol.
 </br>
@@ -7,11 +10,14 @@ This is my GitHub repository where I document issues I've run into, as well as s
 </br>
 <a href='https://github.com/Lei-DaQQ/myIssues/issues'>Issues · Lei-DaQQ/myIssues</a>
 
+### Algorighm learning
+<a href='https://github.com/Lei-DaQQ/algo_learning/discussions'>Lei-DaQQ/algo_learning · Discussions · GitHub</a>
 
-**If you are learning RISC-V, please feel free to join our Telegram group(~~there are not many people in the group~~): https://t.me/riscvshare** </br>
+### RISC-V
+If you are learning RISC-V, please feel free to join our Telegram group(~~there are not many people in the group~~): https://t.me/riscvshare </br>
 **如果你在学习RISC-V,欢迎加入我们的电报群(~~没有几个人~~): https://t.me/riscvshare**
 
-Please contact me via email at ljx.1024@outlook.com
+
 
 
 <!--
