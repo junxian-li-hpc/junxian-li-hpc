@@ -15,12 +15,13 @@ This is my GitHub repository where I document issues I've run into, as well as s
 
 ### RISC-V
 If you are learning RISC-V, please feel free to join our Telegram group(~~there are not many people in the group~~): https://t.me/riscvshare </br>
-**如果你在学习RISC-V,欢迎加入我们的电报群(~~没有几个人~~): https://t.me/riscvshare**
+
 
 
 
 
 <!--
+**如果你在学习RISC-V,欢迎加入我们的电报群(~~没有几个人~~): https://t.me/riscvshare**
 **Lei-DaQQ/Lei-DaQQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
