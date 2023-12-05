@@ -2,7 +2,9 @@
 Please contact me via email at ljx.1024@outlook.com
 
 ### My Blog
+<!--
 ~~[my github blog](https://lei-daqq.github.io/)~~ (I don't use this now.)
+-->
 
 This is my GitHub repository where I document issues I've run into, as well as some tutorials. I use it as another blog, since GitHub makes it easy to publish new posts, lol.
 </br>
@@ -14,7 +16,7 @@ This is my GitHub repository where I document issues I've run into, as well as s
 <a href='https://github.com/Lei-DaQQ/algo_learning/discussions'>Lei-DaQQ/algo_learning · Discussions · GitHub</a>
 
 ### RISC-V
-If you are learning RISC-V, please feel free to join our Telegram group(~~there are not many people in the group~~): https://t.me/riscvshare </br>
+If you are learning RISC-V, please feel free to join our Telegram group(~~there are not many people in the group~~): t.me/riscvshare </br>
 
 
 
