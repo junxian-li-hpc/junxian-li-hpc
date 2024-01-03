@@ -27,7 +27,10 @@ This is my GitHub repository where I document issues I've run into, as well as s
 <a href='https://github.com/junxian-li-hpc/algo_learning/discussions'>algo_learning · Discussions · GitHub</a>
 
 ### RISC-V
+<!--
 If you are learning RISC-V, please feel free to join our Telegram group(~~there are not many people in the group~~): t.me/riscvshare </br>
+-->
+nothing
 
 
 
