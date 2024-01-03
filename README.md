@@ -7,13 +7,24 @@ Please contact me via email at ljx.1024@outlook.com
 -->
 
 This is my GitHub repository where I document issues I've run into, as well as some tutorials. I use it as another blog, since GitHub makes it easy to publish new posts, lol.
+
+<!--
 </br>
 <a href='https://github.com/Lei-DaQQ/myIssues/discussions'>Lei-DaQQ/myIssues · Discussions · GitHub</a>
 </br>
 <a href='https://github.com/Lei-DaQQ/myIssues/issues'>Issues · Lei-DaQQ/myIssues</a>
+-->
+
+<a href='https://github.com/junxian-li-hpc/myIssues/discussions'>myIssues · Discussions · GitHub</a> (new)
+</br>
+<a href='https://github.com/junxian-li-hpc/myIssues/issues'>myIssues · Issues · GitHub</a> (old)
+
 
 ### Algorighm learning
+<!--
 <a href='https://github.com/Lei-DaQQ/algo_learning/discussions'>Lei-DaQQ/algo_learning · Discussions · GitHub</a>
+-->
+<a href='https://github.com/junxian-li-hpc/algo_learning/discussions'>algo_learning · Discussions · GitHub</a>
 
 ### RISC-V
 If you are learning RISC-V, please feel free to join our Telegram group(~~there are not many people in the group~~): t.me/riscvshare </br>
