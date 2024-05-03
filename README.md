@@ -1,5 +1,6 @@
 ### Hi there 👋
-Please contact me via email at junxianlihpc@gmail.com
+Please contact me via email at ljx.1024@outlook.com
+<!-- junxianlihpc@gmail.com-->
 <!--ljx.1024@outlook.com-->
 
 ### My Blog
